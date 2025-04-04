@@ -1,0 +1,84 @@
+.body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+  background-color: #ffffff;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 2%;
+  font-weight: regular;
+}
+
+
+.logo {
+font-size: 18px;
+  font-weight: 44;
+  font-family: "Raleway";
+  color: #d9d9d9;
+
+}
+
+.logo span {
+  color: #4d5ae5;
+}
+
+.header a {
+  text-decoration: none}
+
+.menu .menu-ul .menu-item {
+    color:#2E2F42;
+    font-weight: Medium;
+    
+}
+
+
+.menu .menu-ul .menu-item:hover,
+.menu .menu-ul .menu-item:active,
+.menu .menu-ul .menu-item:focus,
+.adres {
+  color: #404BBF
+}
+
+.adres {
+  color: #434455
+}
+
+.main1 {
+  background-color: #2e2f42;
+  font-weight: bold;
+  font-size: 56px;
+  color: white;
+  line height: 60px;
+}
+
+.button {
+  background-color: #4D5AE5;
+  color: white;
+}
+
+.button hover {
+  color: #404BBF
+}
+
+.h2 {
+  font-weight: medium;
+  font-size: 20px;
+  letter-spacing: 2%;
+  color: #2E2F42
+}
+.text {
+  color: #434455
+}
+.title {
+  font-weight: bold;
+  font-size: 36px;
+  color: #434455;
+}
+
+
+.footer {
+  background-color: #2E2F42;
+  color: white
+}
+
+
+
