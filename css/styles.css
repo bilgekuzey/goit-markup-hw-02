@@ -151,7 +151,7 @@
 }
 .section_footer {
   background-color: #2e2f42;
-  width: 1140px;
+  width: 1440px;
   height: 312px;
 }
 .footer-logo span {
@@ -166,6 +166,4 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  height: 112px;
-  width: 264px;
 }
