@@ -8,6 +8,9 @@
   font-weight: regular;
 }
 
+.headerlogo {
+  text-decoration: none;
+}
 .nav-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -28,6 +31,7 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-decoration: none;
 }
 
 .nav-list__list-item .link:hover,
@@ -40,6 +44,7 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
 }
 
 .contact .link:hover,
@@ -49,15 +54,19 @@
 
 .section1 {
   background-color: #2e2f42;
+  text-align: center;
+  width: 1440px;
+  height: 600px;
 }
 
 .section1_title {
+  font-weight: bold;
+  line-height: 60px;
   font-size: 56px;
-  font-weight: 700;
-  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
+  padding: 188px 0 48px 0;
 }
 
 .section1_button {
@@ -66,6 +75,8 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  text-align: center;
+  padding: 16px 32px;
 }
 
 .section1_button:hover,
@@ -75,10 +86,27 @@
 
 .section3_item {
   background-color: #fff;
+  height: 380px;
+  width: 264px;
 }
 
 .section3 {
   background-color: #f4f4fd;
+  text-align: center;
+}
+
+.section3_item_h2 {
+  color: #2e2f42;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  line-height: 1.2;
+  margin: 24px 0 8px;
+}
+.section3_item_text {
+  color: #434455;
+  line-height: 1.5;
+  margin-bottom: 24px;
 }
 
 .section3_header {
@@ -123,6 +151,8 @@
 }
 .section_footer {
   background-color: #2e2f42;
+  width: 1140px;
+  height: 312px;
 }
 .footer-logo span {
   color: #4d5ae5;
@@ -130,9 +160,12 @@
 
 .footer-logo {
   color: #f4f4fd;
+  text-decoration: none;
 }
 .footer_text {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  height: 112px;
+  width: 264px;
 }
